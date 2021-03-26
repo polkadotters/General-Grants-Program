@@ -118,3 +118,5 @@ Our channels
 
 As stated in the beginning, we plan to add more Substrate projects (that are PoS based) as they come into the ecosystem. Also, we want to work with the community to add more translations and more languages so not only citizens of English-speaking countries can legalize their income.
 
+Also, when the Polkadot ecosystem is deployed and functioning, we plan to integrate trades from Substrate-based DEXes (Acala DEX, HydraDX or Polkaswap come to our mind) so we can have comprehensive, easy to use solution for all Polkadot users who want to legalize their crypto incomes.
+
