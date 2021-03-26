@@ -1,4 +1,4 @@
-# General Grant Proposal
+# Open Grant Proposal
 
 - **Project:** Polkatax
 
@@ -35,7 +35,7 @@ I think someone like this is missing in the Polkadot ecosystem and it will be ne
 
 - Petr Mensik (Founder of Polkadotters, Blockchain dev at Subauction, previously Jva/Clojure backend developer, graduate of Ostrava University of Technology)
 - Michael Repetny (Product dev at Subauction, previously co-founder of web analytics Zeerat, graduate of University of Economics)
-- we plan to bring part-time (0.5 MD) front-end developer and tax specialist who will help us writing the guides
+- we plan to bring one front-end developer (chosen from our community so we can teach more about Polkadot development) and tax specialist who will help us writing the guides
 
 ### Team Website
 
@@ -52,40 +52,42 @@ As far as our Polkadot experience goes, we have participated in the Polkadot Enc
 
 ### Team Code Repos
 
+https://github.com/polkadotters/polkatax
+
 ### Team LinkedIn Profiles
 
 - https://www.linkedin.com/in/petr-men%C5%A1%C3%ADk-2566394b/
-- https://www.linkedin.com/in/petr-men%C5%A1%C3%ADk-2566394b/
+- https://www.linkedin.com/in/repetny
 
 ## Development Roadmap :nut_and_bolt:
 
 ### Overview
 
-- **Total Estimated Duration:** ~1 month
+- **Total Estimated Duration:** ~2 month
 - **Full-time equivalent (FTE):** 1.5
 - **Total Costs:** ~15,000 USD
 
 ### Milestone 0: Implement staking data aggregator for Polkadot address 
 
-- **Estimated Duration:** 1 week
+- **Estimated Duration:** 1-2 weeks
 - **FTE:** 1.5
-- **Costs:** $3,000
+- **Costs:** $5,000
 - Implement:
     - buy www.polkatax.com domain and set up CI
-    - deliver simple, deployed application that can already create a downloadable file to enclosed with declaration of taxes
+    - deliver simple, already deployed application that can already create a downloadable file to enclosed with declaration of taxes
 
 ### Milestone 1: Add wallet integration
 
-- **Estimated Duration:** 1 week
+- **Estimated Duration:** 1-2 weeks
 - **FTE:** 1.5
 - **Costs:** $3,000
 - Implement:
-  - add connection to the wallet which will allow user to select his staking address and also pay the free for generating the file
-  - add more statistic about his staking (how many tokens he earned, what was the daily average and others)
+  - integrate Polkadot JS wallet that will allow user to select his staking address and also pay the fee for generating the file
+  - add more statistic about staking income (how many tokens he earned, what was the daily average and others)
 
 ### Milestone 2: Writing the docs and guides
 
-- **Estimated Duration:** 1 week
+- **Estimated Duration:** 1-2 weeks
 - **FTE:** 1.5
 - **Costs:** $3,000
 - Implement:
@@ -93,16 +95,16 @@ As far as our Polkadot experience goes, we have participated in the Polkadot Enc
     - add integration to exchange API (Binance initially) for getting the USD price of the token
 
 ### Milestone 3: Credit card payments and wrapping up
-- **Estimated Duration:** 1 week
+- **Estimated Duration:** 1-2 weeks
 - **FTE:** 1.5
-- **Costs:** $3,000
+- **Costs:** $4,000
 - Implement:
   - add credit card payments 
   - properly test the whole application, tight up lose ends and ship it to the users
 
 ### Community engagement
 
-This project actually comes straigh out of the Polkadotters community on the request of some users that want to have their taxes in order. We believe that we will be able to promote the projects and help users to legalize their incomes from staking of Substrate-based projects.
+This project actually comes straight out of the Polkadotters community on the request of some users that want to have their taxes in order. We believe that we will be able to promote the projects and help users to legalize their incomes from staking of Substrate-based projects.
 
 We are also creating a DOT Validators Alliance (that will be launched soon) which is a joint project of various community leaders and builders that will help support of community validators and I think this project fits nicely into the bigger picture.
 
@@ -114,5 +116,5 @@ Our channels
 
 ## Future Plans
 
-As stated in the beginning, we plan to add more Substrate projects (that are PoS based) as they come into the ecosystem. Also, we want to work with the community to add more translations and more language supported so not only members of English-speaking countries can legalize their income.
+As stated in the beginning, we plan to add more Substrate projects (that are PoS based) as they come into the ecosystem. Also, we want to work with the community to add more translations and more languages so not only citizens of English-speaking countries can legalize their income.
 
